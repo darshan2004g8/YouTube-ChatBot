@@ -14,7 +14,7 @@ Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transc
 📚 Semantic document retrieval with embeddings
 🔍 Accurate answers based only on the video transcript
 
-**🏗️ System Architecture**
+#**🏗️ System Architecture**
                 YouTube Video URL / Video ID
                            │
                            ▼
