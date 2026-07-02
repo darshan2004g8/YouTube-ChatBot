@@ -14,7 +14,7 @@ Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transc
 📚 Semantic document retrieval with embeddings
 🔍 Accurate answers based only on the video transcript
 
-##🏗️ System Architecture
+#🏗️ System Architecture
                 YouTube Video URL / Video ID
                            │
                            ▼
@@ -43,7 +43,7 @@ Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transc
                   Streamlit User Interface
 
 
-##💡 How It Works
+#💡 How It Works
 1. Enter a YouTube Video URL or Video ID.
 2. The application retrieves the English transcript.
 3. The transcript is split into smaller chunks.
@@ -54,7 +54,7 @@ Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transc
 8. Retrieved context is passed to the LLM (Gemini/OpenAI).
 9. The chatbot generates an accurate context-based response.
 
-##📷 Application Workflow
+#📷 Application Workflow
 Input YouTube URL
         │
         ▼
@@ -81,7 +81,7 @@ LLM (Gemini/OpenAI)
         ▼
 Generated Response
 
-##🎯 Example Questions
+#🎯 Example Questions
 1. Summarize this video.
 2. What are the key points discussed?
 3. Explain the main concept in simple terms.
@@ -92,15 +92,15 @@ Generated Response
 8. List the important topics covered.
 9. Generate revision notes.
 
-##🤝 Contributing
+#🤝 Contributing
 
 Contributions are welcome!
 
-##📄 License
+#📄 License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it in accordance with the license terms.
 
-##👨‍💻 Author
+#👨‍💻 Author
 
 Darshan T V
 
