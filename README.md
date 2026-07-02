@@ -1,4 +1,4 @@
-#<h2> 🎥 YouTube Chatbot</h2>
+ #🎥 YouTube Chatbot
 
 An intelligent Generative AI-powered YouTube Chatbot that allows users to interact with any YouTube video using natural language. The application extracts the video's English transcript, converts it into vector embeddings, stores them in FAISS, and uses Retrieval-Augmented Generation (RAG) to provide accurate, context-aware responses.
 Built with Streamlit, LangChain, Google Gemini API or OpenAI API, YouTube Transcript API, Embeddings, and FAISS.
